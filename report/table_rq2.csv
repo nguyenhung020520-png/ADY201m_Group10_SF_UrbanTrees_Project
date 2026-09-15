@@ -1,0 +1,6 @@
+model,MAE,sd,RMSE,sd_rmse,train_s,improvement_vs_naive_%
+Naive (baseline),5.685,0.0,,,0.0,0.0
+Ridge,3.134,0.0,5.482,0.0,0.026,44.87
+Random Forest,3.238,0.003,5.825,0.006,42.35,43.043
+LightGBM,3.068,0.005,5.618,0.01,1.264,46.035
+XGBoost,3.055,0.003,5.6,0.005,2.551,46.26
