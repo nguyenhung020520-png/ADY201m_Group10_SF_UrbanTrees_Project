@@ -1,0 +1,14 @@
+feature,group
+n,exogenous/structural
+hazard,exogenous/structural
+n_lag1,lag/rolling
+n_ma7,lag/rolling
+n_ma28,lag/rolling
+prcp,exogenous/structural
+prcp3,exogenous/structural
+wsf2,exogenous/structural
+gust3,exogenous/structural
+tmax,lag/rolling
+dow,calendar
+mon,calendar
+nb_code,exogenous/structural

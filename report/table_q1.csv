@@ -1,0 +1,493 @@
+nbhd,yr,requests,hazard
+Bayview Hunters Point,2015,374.0,52.0
+Bayview Hunters Point,2016,291.0,31.0
+Bayview Hunters Point,2017,613.0,95.0
+Bayview Hunters Point,2018,454.0,40.0
+Bayview Hunters Point,2019,662.0,88.0
+Bayview Hunters Point,2020,477.0,36.0
+Bayview Hunters Point,2021,789.0,80.0
+Bayview Hunters Point,2022,633.0,14.0
+Bayview Hunters Point,2023,614.0,204.0
+Bayview Hunters Point,2024,566.0,149.0
+Bayview Hunters Point,2025,1199.0,143.0
+Bayview Hunters Point,2026,574.0,48.0
+Bernal Heights,2015,354.0,82.0
+Bernal Heights,2016,277.0,41.0
+Bernal Heights,2017,449.0,75.0
+Bernal Heights,2018,459.0,58.0
+Bernal Heights,2019,502.0,73.0
+Bernal Heights,2020,389.0,49.0
+Bernal Heights,2021,586.0,99.0
+Bernal Heights,2022,339.0,18.0
+Bernal Heights,2023,604.0,196.0
+Bernal Heights,2024,476.0,171.0
+Bernal Heights,2025,622.0,106.0
+Bernal Heights,2026,448.0,66.0
+Castro/Upper Market,2015,349.0,49.0
+Castro/Upper Market,2016,453.0,47.0
+Castro/Upper Market,2017,541.0,61.0
+Castro/Upper Market,2018,604.0,49.0
+Castro/Upper Market,2019,525.0,61.0
+Castro/Upper Market,2020,501.0,39.0
+Castro/Upper Market,2021,599.0,47.0
+Castro/Upper Market,2022,410.0,12.0
+Castro/Upper Market,2023,504.0,179.0
+Castro/Upper Market,2024,544.0,196.0
+Castro/Upper Market,2025,674.0,148.0
+Castro/Upper Market,2026,509.0,89.0
+Chinatown,2015,39.0,7.0
+Chinatown,2016,85.0,9.0
+Chinatown,2017,76.0,8.0
+Chinatown,2018,47.0,4.0
+Chinatown,2019,60.0,10.0
+Chinatown,2020,44.0,11.0
+Chinatown,2021,62.0,13.0
+Chinatown,2022,38.0,0.0
+Chinatown,2023,75.0,20.0
+Chinatown,2024,57.0,17.0
+Chinatown,2025,72.0,19.0
+Chinatown,2026,66.0,12.0
+Excelsior,2015,161.0,16.0
+Excelsior,2016,185.0,19.0
+Excelsior,2017,284.0,22.0
+Excelsior,2018,325.0,15.0
+Excelsior,2019,356.0,36.0
+Excelsior,2020,316.0,22.0
+Excelsior,2021,374.0,47.0
+Excelsior,2022,271.0,9.0
+Excelsior,2023,292.0,86.0
+Excelsior,2024,376.0,79.0
+Excelsior,2025,498.0,92.0
+Excelsior,2026,363.0,53.0
+Financial District/South Beach,2015,111.0,8.0
+Financial District/South Beach,2016,169.0,31.0
+Financial District/South Beach,2017,191.0,31.0
+Financial District/South Beach,2018,219.0,24.0
+Financial District/South Beach,2019,201.0,33.0
+Financial District/South Beach,2020,160.0,19.0
+Financial District/South Beach,2021,232.0,21.0
+Financial District/South Beach,2022,170.0,9.0
+Financial District/South Beach,2023,253.0,117.0
+Financial District/South Beach,2024,252.0,111.0
+Financial District/South Beach,2025,267.0,84.0
+Financial District/South Beach,2026,250.0,50.0
+Glen Park,2015,109.0,19.0
+Glen Park,2016,119.0,18.0
+Glen Park,2017,188.0,32.0
+Glen Park,2018,190.0,24.0
+Glen Park,2019,217.0,51.0
+Glen Park,2020,146.0,14.0
+Glen Park,2021,219.0,38.0
+Glen Park,2022,129.0,12.0
+Glen Park,2023,249.0,91.0
+Glen Park,2024,260.0,89.0
+Glen Park,2025,283.0,46.0
+Glen Park,2026,184.0,32.0
+Golden Gate Park,2015,24.0,5.0
+Golden Gate Park,2016,37.0,7.0
+Golden Gate Park,2017,77.0,22.0
+Golden Gate Park,2018,37.0,9.0
+Golden Gate Park,2019,57.0,15.0
+Golden Gate Park,2020,44.0,7.0
+Golden Gate Park,2021,63.0,13.0
+Golden Gate Park,2022,50.0,8.0
+Golden Gate Park,2023,97.0,65.0
+Golden Gate Park,2024,92.0,48.0
+Golden Gate Park,2025,84.0,39.0
+Golden Gate Park,2026,73.0,28.0
+Haight Ashbury,2015,179.0,30.0
+Haight Ashbury,2016,232.0,15.0
+Haight Ashbury,2017,331.0,32.0
+Haight Ashbury,2018,301.0,30.0
+Haight Ashbury,2019,356.0,65.0
+Haight Ashbury,2020,331.0,37.0
+Haight Ashbury,2021,392.0,66.0
+Haight Ashbury,2022,411.0,22.0
+Haight Ashbury,2023,479.0,145.0
+Haight Ashbury,2024,384.0,110.0
+Haight Ashbury,2025,434.0,94.0
+Haight Ashbury,2026,396.0,82.0
+Hayes Valley,2015,337.0,46.0
+Hayes Valley,2016,281.0,34.0
+Hayes Valley,2017,486.0,57.0
+Hayes Valley,2018,459.0,39.0
+Hayes Valley,2019,462.0,69.0
+Hayes Valley,2020,294.0,30.0
+Hayes Valley,2021,425.0,48.0
+Hayes Valley,2022,322.0,20.0
+Hayes Valley,2023,480.0,154.0
+Hayes Valley,2024,402.0,107.0
+Hayes Valley,2025,742.0,102.0
+Hayes Valley,2026,510.0,68.0
+Inner Richmond,2015,130.0,18.0
+Inner Richmond,2016,140.0,24.0
+Inner Richmond,2017,278.0,31.0
+Inner Richmond,2018,250.0,26.0
+Inner Richmond,2019,303.0,38.0
+Inner Richmond,2020,241.0,13.0
+Inner Richmond,2021,346.0,40.0
+Inner Richmond,2022,167.0,6.0
+Inner Richmond,2023,216.0,68.0
+Inner Richmond,2024,175.0,39.0
+Inner Richmond,2025,217.0,44.0
+Inner Richmond,2026,206.0,36.0
+Inner Sunset,2015,196.0,27.0
+Inner Sunset,2016,231.0,40.0
+Inner Sunset,2017,328.0,61.0
+Inner Sunset,2018,353.0,36.0
+Inner Sunset,2019,417.0,71.0
+Inner Sunset,2020,319.0,32.0
+Inner Sunset,2021,415.0,55.0
+Inner Sunset,2022,262.0,23.0
+Inner Sunset,2023,417.0,125.0
+Inner Sunset,2024,416.0,121.0
+Inner Sunset,2025,397.0,89.0
+Inner Sunset,2026,298.0,36.0
+Japantown,2015,39.0,4.0
+Japantown,2016,47.0,3.0
+Japantown,2017,50.0,11.0
+Japantown,2018,47.0,7.0
+Japantown,2019,69.0,8.0
+Japantown,2020,59.0,0.0
+Japantown,2021,65.0,5.0
+Japantown,2022,72.0,1.0
+Japantown,2023,59.0,22.0
+Japantown,2024,57.0,24.0
+Japantown,2025,43.0,10.0
+Japantown,2026,45.0,10.0
+Lakeshore,2015,55.0,9.0
+Lakeshore,2016,65.0,12.0
+Lakeshore,2017,59.0,17.0
+Lakeshore,2018,33.0,4.0
+Lakeshore,2019,48.0,11.0
+Lakeshore,2020,44.0,4.0
+Lakeshore,2021,43.0,9.0
+Lakeshore,2022,43.0,3.0
+Lakeshore,2023,102.0,47.0
+Lakeshore,2024,62.0,25.0
+Lakeshore,2025,71.0,22.0
+Lakeshore,2026,33.0,9.0
+Lincoln Park,2015,12.0,0.0
+Lincoln Park,2016,11.0,0.0
+Lincoln Park,2017,4.0,0.0
+Lincoln Park,2018,5.0,0.0
+Lincoln Park,2019,5.0,1.0
+Lincoln Park,2020,5.0,0.0
+Lincoln Park,2021,8.0,2.0
+Lincoln Park,2022,4.0,0.0
+Lincoln Park,2023,17.0,12.0
+Lincoln Park,2024,3.0,2.0
+Lincoln Park,2025,8.0,2.0
+Lincoln Park,2026,14.0,3.0
+Lone Mountain/USF,2015,88.0,10.0
+Lone Mountain/USF,2016,133.0,26.0
+Lone Mountain/USF,2017,177.0,33.0
+Lone Mountain/USF,2018,191.0,25.0
+Lone Mountain/USF,2019,196.0,23.0
+Lone Mountain/USF,2020,197.0,17.0
+Lone Mountain/USF,2021,240.0,28.0
+Lone Mountain/USF,2022,158.0,7.0
+Lone Mountain/USF,2023,270.0,86.0
+Lone Mountain/USF,2024,191.0,61.0
+Lone Mountain/USF,2025,240.0,35.0
+Lone Mountain/USF,2026,148.0,20.0
+Marina,2015,180.0,21.0
+Marina,2016,164.0,30.0
+Marina,2017,249.0,28.0
+Marina,2018,259.0,17.0
+Marina,2019,267.0,31.0
+Marina,2020,274.0,19.0
+Marina,2021,373.0,57.0
+Marina,2022,209.0,10.0
+Marina,2023,309.0,85.0
+Marina,2024,384.0,88.0
+Marina,2025,411.0,83.0
+Marina,2026,347.0,54.0
+McLaren Park,2015,19.0,3.0
+McLaren Park,2016,19.0,2.0
+McLaren Park,2017,27.0,3.0
+McLaren Park,2018,27.0,0.0
+McLaren Park,2019,34.0,8.0
+McLaren Park,2020,13.0,2.0
+McLaren Park,2021,29.0,3.0
+McLaren Park,2022,12.0,1.0
+McLaren Park,2023,37.0,26.0
+McLaren Park,2024,32.0,17.0
+McLaren Park,2025,29.0,13.0
+McLaren Park,2026,26.0,7.0
+Mission,2015,1156.0,90.0
+Mission,2016,1144.0,89.0
+Mission,2017,1341.0,121.0
+Mission,2018,1426.0,102.0
+Mission,2019,1164.0,118.0
+Mission,2020,953.0,77.0
+Mission,2021,1318.0,136.0
+Mission,2022,873.0,47.0
+Mission,2023,1251.0,462.0
+Mission,2024,1305.0,410.0
+Mission,2025,1738.0,295.0
+Mission,2026,1202.0,182.0
+Mission Bay,2015,38.0,2.0
+Mission Bay,2016,36.0,5.0
+Mission Bay,2017,62.0,5.0
+Mission Bay,2018,61.0,3.0
+Mission Bay,2019,93.0,14.0
+Mission Bay,2020,62.0,2.0
+Mission Bay,2021,129.0,9.0
+Mission Bay,2022,66.0,3.0
+Mission Bay,2023,83.0,34.0
+Mission Bay,2024,104.0,31.0
+Mission Bay,2025,138.0,25.0
+Mission Bay,2026,128.0,19.0
+Nob Hill,2015,133.0,18.0
+Nob Hill,2016,127.0,12.0
+Nob Hill,2017,204.0,30.0
+Nob Hill,2018,195.0,25.0
+Nob Hill,2019,222.0,23.0
+Nob Hill,2020,161.0,14.0
+Nob Hill,2021,193.0,28.0
+Nob Hill,2022,167.0,9.0
+Nob Hill,2023,345.0,126.0
+Nob Hill,2024,284.0,72.0
+Nob Hill,2025,450.0,60.0
+Nob Hill,2026,356.0,36.0
+Noe Valley,2015,182.0,30.0
+Noe Valley,2016,201.0,33.0
+Noe Valley,2017,349.0,38.0
+Noe Valley,2018,330.0,30.0
+Noe Valley,2019,375.0,45.0
+Noe Valley,2020,382.0,39.0
+Noe Valley,2021,455.0,47.0
+Noe Valley,2022,269.0,21.0
+Noe Valley,2023,479.0,107.0
+Noe Valley,2024,458.0,123.0
+Noe Valley,2025,577.0,100.0
+Noe Valley,2026,460.0,70.0
+North Beach,2015,125.0,19.0
+North Beach,2016,116.0,11.0
+North Beach,2017,147.0,15.0
+North Beach,2018,143.0,12.0
+North Beach,2019,201.0,28.0
+North Beach,2020,89.0,7.0
+North Beach,2021,184.0,13.0
+North Beach,2022,242.0,7.0
+North Beach,2023,250.0,108.0
+North Beach,2024,199.0,60.0
+North Beach,2025,217.0,56.0
+North Beach,2026,181.0,30.0
+Oceanview/Merced/Ingleside,2015,187.0,29.0
+Oceanview/Merced/Ingleside,2016,168.0,25.0
+Oceanview/Merced/Ingleside,2017,329.0,35.0
+Oceanview/Merced/Ingleside,2018,218.0,16.0
+Oceanview/Merced/Ingleside,2019,318.0,44.0
+Oceanview/Merced/Ingleside,2020,218.0,20.0
+Oceanview/Merced/Ingleside,2021,280.0,33.0
+Oceanview/Merced/Ingleside,2022,172.0,7.0
+Oceanview/Merced/Ingleside,2023,236.0,78.0
+Oceanview/Merced/Ingleside,2024,284.0,85.0
+Oceanview/Merced/Ingleside,2025,315.0,58.0
+Oceanview/Merced/Ingleside,2026,267.0,23.0
+Outer Mission,2015,168.0,16.0
+Outer Mission,2016,190.0,15.0
+Outer Mission,2017,280.0,27.0
+Outer Mission,2018,271.0,15.0
+Outer Mission,2019,275.0,30.0
+Outer Mission,2020,229.0,19.0
+Outer Mission,2021,288.0,30.0
+Outer Mission,2022,186.0,9.0
+Outer Mission,2023,254.0,35.0
+Outer Mission,2024,258.0,45.0
+Outer Mission,2025,379.0,57.0
+Outer Mission,2026,308.0,22.0
+Outer Richmond,2015,191.0,22.0
+Outer Richmond,2016,257.0,30.0
+Outer Richmond,2017,457.0,28.0
+Outer Richmond,2018,356.0,30.0
+Outer Richmond,2019,452.0,59.0
+Outer Richmond,2020,380.0,32.0
+Outer Richmond,2021,448.0,65.0
+Outer Richmond,2022,337.0,11.0
+Outer Richmond,2023,424.0,90.0
+Outer Richmond,2024,498.0,112.0
+Outer Richmond,2025,428.0,67.0
+Outer Richmond,2026,305.0,37.0
+Pacific Heights,2015,252.0,34.0
+Pacific Heights,2016,258.0,36.0
+Pacific Heights,2017,401.0,83.0
+Pacific Heights,2018,356.0,42.0
+Pacific Heights,2019,392.0,69.0
+Pacific Heights,2020,327.0,51.0
+Pacific Heights,2021,453.0,72.0
+Pacific Heights,2022,293.0,20.0
+Pacific Heights,2023,415.0,103.0
+Pacific Heights,2024,296.0,76.0
+Pacific Heights,2025,373.0,80.0
+Pacific Heights,2026,431.0,64.0
+Portola,2015,98.0,10.0
+Portola,2016,81.0,13.0
+Portola,2017,179.0,21.0
+Portola,2018,136.0,9.0
+Portola,2019,199.0,21.0
+Portola,2020,146.0,8.0
+Portola,2021,173.0,18.0
+Portola,2022,84.0,1.0
+Portola,2023,139.0,21.0
+Portola,2024,183.0,28.0
+Portola,2025,264.0,25.0
+Portola,2026,199.0,21.0
+Potrero Hill,2015,74.0,14.0
+Potrero Hill,2016,158.0,28.0
+Potrero Hill,2017,206.0,20.0
+Potrero Hill,2018,232.0,12.0
+Potrero Hill,2019,284.0,30.0
+Potrero Hill,2020,268.0,15.0
+Potrero Hill,2021,319.0,33.0
+Potrero Hill,2022,172.0,9.0
+Potrero Hill,2023,254.0,116.0
+Potrero Hill,2024,193.0,54.0
+Potrero Hill,2025,251.0,51.0
+Potrero Hill,2026,242.0,42.0
+Presidio,2015,5.0,2.0
+Presidio,2016,17.0,1.0
+Presidio,2017,14.0,2.0
+Presidio,2018,11.0,0.0
+Presidio,2019,10.0,1.0
+Presidio,2020,3.0,1.0
+Presidio,2021,7.0,0.0
+Presidio,2022,3.0,0.0
+Presidio,2023,10.0,7.0
+Presidio,2024,4.0,3.0
+Presidio,2025,7.0,2.0
+Presidio,2026,10.0,5.0
+Presidio Heights,2015,83.0,9.0
+Presidio Heights,2016,123.0,6.0
+Presidio Heights,2017,149.0,25.0
+Presidio Heights,2018,134.0,7.0
+Presidio Heights,2019,157.0,24.0
+Presidio Heights,2020,122.0,16.0
+Presidio Heights,2021,183.0,29.0
+Presidio Heights,2022,90.0,4.0
+Presidio Heights,2023,157.0,27.0
+Presidio Heights,2024,179.0,44.0
+Presidio Heights,2025,192.0,31.0
+Presidio Heights,2026,165.0,26.0
+Russian Hill,2015,134.0,12.0
+Russian Hill,2016,134.0,23.0
+Russian Hill,2017,246.0,43.0
+Russian Hill,2018,218.0,15.0
+Russian Hill,2019,197.0,22.0
+Russian Hill,2020,160.0,9.0
+Russian Hill,2021,268.0,25.0
+Russian Hill,2022,174.0,6.0
+Russian Hill,2023,301.0,97.0
+Russian Hill,2024,280.0,79.0
+Russian Hill,2025,366.0,88.0
+Russian Hill,2026,323.0,36.0
+Seacliff,2015,21.0,2.0
+Seacliff,2016,16.0,0.0
+Seacliff,2017,39.0,7.0
+Seacliff,2018,30.0,6.0
+Seacliff,2019,62.0,8.0
+Seacliff,2020,46.0,3.0
+Seacliff,2021,61.0,9.0
+Seacliff,2022,38.0,0.0
+Seacliff,2023,57.0,16.0
+Seacliff,2024,50.0,11.0
+Seacliff,2025,33.0,3.0
+Seacliff,2026,26.0,3.0
+South of Market,2015,251.0,34.0
+South of Market,2016,336.0,28.0
+South of Market,2017,334.0,29.0
+South of Market,2018,359.0,42.0
+South of Market,2019,309.0,43.0
+South of Market,2020,254.0,23.0
+South of Market,2021,363.0,34.0
+South of Market,2022,189.0,9.0
+South of Market,2023,417.0,148.0
+South of Market,2024,383.0,90.0
+South of Market,2025,1075.0,101.0
+South of Market,2026,637.0,58.0
+Sunset/Parkside,2015,285.0,35.0
+Sunset/Parkside,2016,408.0,73.0
+Sunset/Parkside,2017,475.0,53.0
+Sunset/Parkside,2018,559.0,43.0
+Sunset/Parkside,2019,517.0,73.0
+Sunset/Parkside,2020,543.0,36.0
+Sunset/Parkside,2021,718.0,107.0
+Sunset/Parkside,2022,503.0,28.0
+Sunset/Parkside,2023,630.0,162.0
+Sunset/Parkside,2024,619.0,136.0
+Sunset/Parkside,2025,761.0,95.0
+Sunset/Parkside,2026,476.0,72.0
+Tenderloin,2015,118.0,12.0
+Tenderloin,2016,144.0,10.0
+Tenderloin,2017,185.0,21.0
+Tenderloin,2018,262.0,18.0
+Tenderloin,2019,187.0,38.0
+Tenderloin,2020,116.0,12.0
+Tenderloin,2021,139.0,17.0
+Tenderloin,2022,122.0,13.0
+Tenderloin,2023,218.0,79.0
+Tenderloin,2024,349.0,62.0
+Tenderloin,2025,428.0,53.0
+Tenderloin,2026,439.0,26.0
+Treasure Island,2015,1.0,1.0
+Treasure Island,2016,6.0,2.0
+Treasure Island,2017,6.0,3.0
+Treasure Island,2018,0.0,0.0
+Treasure Island,2019,8.0,3.0
+Treasure Island,2020,7.0,1.0
+Treasure Island,2021,7.0,2.0
+Treasure Island,2022,2.0,0.0
+Treasure Island,2023,4.0,3.0
+Treasure Island,2024,3.0,2.0
+Treasure Island,2025,38.0,2.0
+Treasure Island,2026,7.0,0.0
+Twin Peaks,2015,74.0,12.0
+Twin Peaks,2016,92.0,20.0
+Twin Peaks,2017,116.0,23.0
+Twin Peaks,2018,54.0,9.0
+Twin Peaks,2019,110.0,15.0
+Twin Peaks,2020,74.0,8.0
+Twin Peaks,2021,85.0,23.0
+Twin Peaks,2022,47.0,3.0
+Twin Peaks,2023,115.0,42.0
+Twin Peaks,2024,114.0,30.0
+Twin Peaks,2025,105.0,29.0
+Twin Peaks,2026,96.0,23.0
+Visitacion Valley,2015,54.0,11.0
+Visitacion Valley,2016,44.0,7.0
+Visitacion Valley,2017,68.0,8.0
+Visitacion Valley,2018,68.0,8.0
+Visitacion Valley,2019,99.0,10.0
+Visitacion Valley,2020,59.0,2.0
+Visitacion Valley,2021,74.0,5.0
+Visitacion Valley,2022,72.0,2.0
+Visitacion Valley,2023,83.0,22.0
+Visitacion Valley,2024,86.0,12.0
+Visitacion Valley,2025,147.0,9.0
+Visitacion Valley,2026,94.0,8.0
+West of Twin Peaks,2015,573.0,81.0
+West of Twin Peaks,2016,680.0,83.0
+West of Twin Peaks,2017,866.0,163.0
+West of Twin Peaks,2018,650.0,81.0
+West of Twin Peaks,2019,738.0,156.0
+West of Twin Peaks,2020,481.0,53.0
+West of Twin Peaks,2021,748.0,141.0
+West of Twin Peaks,2022,497.0,22.0
+West of Twin Peaks,2023,918.0,283.0
+West of Twin Peaks,2024,829.0,203.0
+West of Twin Peaks,2025,782.0,158.0
+West of Twin Peaks,2026,565.0,106.0
+Western Addition,2015,221.0,34.0
+Western Addition,2016,286.0,33.0
+Western Addition,2017,285.0,61.0
+Western Addition,2018,334.0,49.0
+Western Addition,2019,374.0,55.0
+Western Addition,2020,256.0,41.0
+Western Addition,2021,376.0,69.0
+Western Addition,2022,272.0,18.0
+Western Addition,2023,358.0,145.0
+Western Addition,2024,299.0,81.0
+Western Addition,2025,459.0,103.0
+Western Addition,2026,398.0,52.0

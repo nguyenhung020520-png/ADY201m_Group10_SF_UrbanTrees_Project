@@ -1,0 +1,8 @@
+,missing_rate,decision
+wsf2,1.0,drop column
+tmax,0.0139,interpolate/impute median
+prcp,0.0087,interpolate/impute median
+n,0.0,keep
+date,0.0,keep
+nbhd,0.0,keep
+hazard,0.0,keep

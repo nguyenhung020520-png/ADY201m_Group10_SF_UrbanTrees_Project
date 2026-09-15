@@ -1,0 +1,6 @@
+﻿data/raw
+data/processed/*
+.venv
+*.parquet
+!data/processed/manifest.json
+!data/processed/feat.parquet

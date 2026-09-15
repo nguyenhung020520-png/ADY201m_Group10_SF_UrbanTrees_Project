@@ -1,0 +1,25 @@
+{
+  "rows": 174413,
+  "cols": [
+    "nbhd",
+    "date",
+    "n",
+    "hazard",
+    "prcp",
+    "wsf2",
+    "tmax",
+    "dow",
+    "mon",
+    "n_lag1",
+    "n_ma7",
+    "n_ma28",
+    "prcp3",
+    "gust3",
+    "y_1d",
+    "y_7d"
+  ],
+  "md5": "56f8d2e3b9dded46d9e1b0f0425cd83b",
+  "time_min": "2015-01-01 00:00:00",
+  "time_max": "2026-09-12 00:00:00",
+  "author": "Student A"
+}
