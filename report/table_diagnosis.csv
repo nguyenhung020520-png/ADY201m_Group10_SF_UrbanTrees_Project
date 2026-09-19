@@ -1,5 +1,7 @@
-question,evidence,assessment
-beats naive,46.3% vs naive,clear
-overfitting,train 1.99 vs test 3.06,signs present
-error by period,highest 3: 3.98,revisit seasonal features
-peaks vs base,MAE on top 10% values: 10.93,consider quantile loss
+question,value
+beats seasonal naive (MASE < 1),1.254
+rolling-origin spread (max/min MAE),1.149
+relative loss on unseen units,0.083
+conformal coverage (target 0.90),0.852
+best warning F1,0.375
+MAE increase without secondary source,-0.002

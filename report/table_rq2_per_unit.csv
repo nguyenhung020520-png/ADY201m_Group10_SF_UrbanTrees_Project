@@ -1,0 +1,42 @@
+nbhd,MAE,mean_target,n,MAE_rel
+Mission,2.2283,4.5574,618,0.4889
+Sunset/Parkside,1.2613,2.0,618,0.6307
+West of Twin Peaks,1.3844,2.1796,618,0.6351
+South of Market,1.6424,2.5194,618,0.6519
+Bayview Hunters Point,1.6172,2.4636,618,0.6564
+Castro/Upper Market,1.2523,1.89,618,0.6626
+Bernal Heights,1.19,1.7314,618,0.6873
+Noe Valley,1.173,1.6529,618,0.7096
+Excelsior,1.034,1.3932,618,0.7422
+Hayes Valley,1.4457,1.9466,618,0.7427
+Haight Ashbury,1.0304,1.3414,618,0.7681
+Outer Richmond,0.9341,1.1861,618,0.7876
+Marina,0.997,1.2249,618,0.8139
+Pacific Heights,1.062,1.2994,618,0.8174
+Outer Mission,0.9266,1.1117,618,0.8335
+Nob Hill,1.1079,1.3042,618,0.8495
+Inner Sunset,0.9432,1.1052,618,0.8535
+Western Addition,1.1773,1.3633,618,0.8636
+Tenderloin,1.1663,1.339,618,0.871
+Russian Hill,1.007,1.1133,618,0.9045
+Oceanview/Merced/Ingleside,0.9002,0.9417,618,0.9559
+Potrero Hill,0.7757,0.7977,618,0.9723
+Portola,0.7463,0.7492,618,0.9962
+Financial District/South Beach,0.8376,0.8366,618,1.0012
+Glen Park,0.7672,0.754,618,1.0174
+Inner Richmond,0.7276,0.6845,618,1.0631
+North Beach,0.7173,0.644,618,1.1138
+Lone Mountain/USF,0.7095,0.6278,618,1.1301
+Presidio Heights,0.6734,0.5777,618,1.1657
+Mission Bay,0.5471,0.4288,618,1.2759
+Twin Peaks,0.4473,0.3252,618,1.3753
+Visitacion Valley,0.5333,0.3657,618,1.4584
+Chinatown,0.3581,0.2233,618,1.6036
+Golden Gate Park,0.4117,0.254,618,1.6207
+Lakeshore,0.2726,0.1667,618,1.6354
+Treasure Island,0.1405,0.0728,618,1.9289
+Japantown,0.279,0.1424,618,1.9595
+McLaren Park,0.1809,0.089,618,2.0326
+Seacliff,0.1964,0.0955,618,2.057
+Lincoln Park,0.0984,0.0356,618,2.7641
+Presidio,0.0812,0.0275,618,2.9524
