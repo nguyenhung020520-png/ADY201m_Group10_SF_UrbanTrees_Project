@@ -1,0 +1,7 @@
+metric,value
+overlap start,2015-01-01 00:00:00
+overlap end,2026-09-17 22:00:58
+steps only in primary,2381
+steps only in secondary,78
+latest timestamp primary,2026-09-17 22:00:58
+latest timestamp secondary,2209-09-27 23:00:00

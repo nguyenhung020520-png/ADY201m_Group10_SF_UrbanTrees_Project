@@ -1,3 +1,8 @@
-step,rows_before,rows_after,dropped,reason
-drop duplicates,174574,174574,0,same unit and timestamp
-drop missing target,174574,174574,0,cannot be forecast
+step,rows_before,rows_after,rows_removed,reason
+drop unrealistic future dates (secondary),446240,446232,8,permit_start_date has data-entry errors far in the future (e.g. year 2209)
+parse time,272773,272773,0,rows with unparseable timestamps
+drop duplicates,272773,272773,0,same unit and timestamp
+drop missing target,272773,272773,0,target missing
+physical range,272773,272501,272,"outside [0, 13] (0.1% tails; replace with a physical range if you know it)"
+regular grid + interpolate(limit=3),272773,272773,0,gaps longer than 3 steps dropped
+drop short units,272773,272773,0,0 units with < 90% coverage

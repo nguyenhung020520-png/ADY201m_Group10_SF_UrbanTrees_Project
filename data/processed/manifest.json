@@ -1,25 +1,44 @@
 {
-  "rows": 174574,
+  "group": "Nhom 10",
+  "topic": "Weekly Street Tree Maintenance Demand Forecasting for SF Neighbourhoods",
+  "rows": 272773,
   "cols": [
     "nbhd",
-    "date",
+    "requested_datetime",
     "n",
-    "hazard",
-    "prcp",
-    "wsf2",
-    "tmax",
+    "permits_active",
+    "hr",
     "dow",
     "mon",
-    "n_lag1",
-    "n_ma7",
-    "n_ma28",
-    "prcp3",
-    "gust3",
-    "y_1d",
-    "y_7d"
+    "doy",
+    "y_lag1",
+    "y_lag2",
+    "y_lag3",
+    "y_lag7",
+    "y_lag14",
+    "y_lag28",
+    "y_ma_season",
+    "y_sd_season",
+    "y_diff1",
+    "permits_active_lag_season",
+    "y_h1",
+    "y_h7"
   ],
-  "md5": "cd5eb04a74039ace4ff51b00910e013b",
-  "time_min": "2015-01-01 00:00:00",
-  "time_max": "2026-09-14 00:00:00",
-  "author": "Student A"
+  "units": 41,
+  "start": "2008-07-01 00:00:00",
+  "end": "2026-09-17 00:00:00",
+  "freq": "D",
+  "horizons": [
+    1,
+    7
+  ],
+  "season": 7,
+  "unit_col": "nbhd",
+  "time_col": "requested_datetime",
+  "target_col": "n",
+  "exog_cols": [
+    "permits_active"
+  ],
+  "test_start": "2025-01-01",
+  "md5": "fd23f929c34f814cc7c37b73147a0bcc"
 }
