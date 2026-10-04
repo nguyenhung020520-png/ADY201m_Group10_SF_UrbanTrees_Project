@@ -1,0 +1,9 @@
+train,config,mean,std,thay_doi_pct
+Train từ 2008 (như RQ2),Bỏ permits_active,3.0565,0.006,0.48
+Train từ 2008 (như RQ2),Bỏ thời tiết,3.0565,0.0098,0.48
+Train từ 2008 (như RQ2),Bỏ đặc trưng lịch,3.0222,0.0074,-0.64
+Train từ 2008 (như RQ2),Đầy đủ đặc trưng,3.0418,0.0098,0.0
+Train từ 2015 (permits/thời tiết là dữ liệu thật),Bỏ permits_active,3.0536,0.0087,-0.06
+Train từ 2015 (permits/thời tiết là dữ liệu thật),Bỏ thời tiết,3.0721,0.0056,0.54
+Train từ 2015 (permits/thời tiết là dữ liệu thật),Bỏ đặc trưng lịch,3.0388,0.0076,-0.55
+Train từ 2015 (permits/thời tiết là dữ liệu thật),Đầy đủ đặc trưng,3.0555,0.0086,0.0
