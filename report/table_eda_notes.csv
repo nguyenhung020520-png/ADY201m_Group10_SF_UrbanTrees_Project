@@ -1,5 +1,0 @@
-column,note
-n,"strongly skewed, consider log or tree models"
-hazard,"strongly skewed, consider log or tree models"
-prcp,"strongly skewed, consider log or tree models"
-wsf2,"trạm SFO (USW00023272) không báo cáo dữ liệu gió trong NOAA daily-summaries; cột để trống có chủ đích, không dùng làm đặc trưng gió"

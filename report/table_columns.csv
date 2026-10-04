@@ -1,8 +1,0 @@
-column,reason,decision
-nbhd,time/unit key,keep for feature building
-date,time/unit key,keep for feature building
-n,target,keep
-hazard,correlation with target 0.57,keep
-prcp,correlation with target 0.10,keep
-tmax,correlation with target 0.01,consider dropping
-wsf2,correlation with target nan,keep

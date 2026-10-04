@@ -1,6 +1,0 @@
-,RMSE
-Naive (baseline),9.0602
-Ridge,5.4801
-Random Forest,5.8346
-LightGBM,5.6036
-XGBoost,5.6063
