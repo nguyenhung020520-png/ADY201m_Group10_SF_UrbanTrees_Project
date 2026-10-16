@@ -1,0 +1,7 @@
+mo_hinh,MAE,RMSE,cai_thien_so_voi_lap_lai_%
+Chronos-Bolt (zero-shot),2.598,4.37,20.188
+Ridge,2.695,4.497,17.214
+Random Forest,2.741,4.598,15.809
+LightGBM,2.764,4.651,15.102
+Trung bình 4 tuần,2.81,4.537,13.671
+Lặp lại tuần trước,3.255,5.179,0.0

@@ -1,0 +1,4 @@
+mo_hinh,MAE,sai_lech_tb (du_bao - thuc_te)
+Lặp lại tuần trước,3.255,-0.037
+Ridge cố định,2.695,-1.191
+Ridge tái huấn luyện mỗi 4 tuần,2.643,-0.997

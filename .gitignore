@@ -1,0 +1,9 @@
+# Dữ liệu gốc quá lớn cho GitHub (Notebook 2 tự tải lại)
+Data/raw/
+
+# Môi trường ảo và file tạm
+.venv/
+venv/
+__pycache__/
+.ipynb_checkpoints/
+*.db

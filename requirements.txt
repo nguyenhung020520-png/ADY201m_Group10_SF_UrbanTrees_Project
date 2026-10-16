@@ -1,0 +1,12 @@
+pandas
+numpy
+matplotlib
+seaborn
+scipy
+duckdb
+scikit-learn
+lightgbm
+shap
+torch
+chronos-forecasting
+jupyter
