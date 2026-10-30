@@ -8,5 +8,6 @@ scikit-learn
 lightgbm
 shap
 torch
-chronos-forecasting
+chronos-forecasting>=2.2
+timesfm[torch]
 jupyter

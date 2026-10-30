@@ -7,3 +7,10 @@ venv/
 __pycache__/
 .ipynb_checkpoints/
 *.db
+
+# File tạm của LaTeX
+*.aux
+*.log
+*.out
+*.blg
+*.synctex.gz

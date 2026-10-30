@@ -1,0 +1,13 @@
+bien,mo_hinh,so_bo_tham_so,MAE_kiem_dinh,tham_so_tot
+n,Hồi quy Poisson,4,2.951,{'alpha': 0.0001}
+n,Ridge,4,2.965,{'alpha': 1.0}
+n,Random Forest,6,3.02,"{'max_depth': 8, 'min_samples_leaf': 20}"
+n,LightGBM,16,2.951,"{'num_leaves': 31, 'learning_rate': 0.03, 'n_estimators': 600, 'min_child_samples': 20}"
+n_all,Hồi quy Poisson,4,3.364,{'alpha': 0.0001}
+n_all,Ridge,4,3.368,{'alpha': 0.1}
+n_all,Random Forest,6,3.377,"{'max_depth': 12, 'min_samples_leaf': 20}"
+n_all,LightGBM,16,3.377,"{'num_leaves': 31, 'learning_rate': 0.03, 'n_estimators': 300, 'min_child_samples': 50}"
+n_damaged,Hồi quy Poisson,4,2.109,{'alpha': 0.0001}
+n_damaged,Ridge,4,2.064,{'alpha': 0.1}
+n_damaged,Random Forest,6,2.132,"{'max_depth': 12, 'min_samples_leaf': 20}"
+n_damaged,LightGBM,16,2.127,"{'num_leaves': 15, 'learning_rate': 0.03, 'n_estimators': 600, 'min_child_samples': 20}"

@@ -1,0 +1,35 @@
+mo_hinh,ho,MAE,RMSE,MASE,so_moc_thang,giam_MAE_so_voi_lap_lai_%,bien,hang
+TimesFM 2.5,Nền tảng zero-shot,2.393,4.284,0.916,1,21.409,n,1
+Chronos-Bolt Small,Nền tảng zero-shot,2.397,4.292,0.918,3,21.282,n,2
+Chronos-Bolt Base,Nền tảng zero-shot,2.397,4.282,0.92,1,21.274,n,2
+Chronos-2,Nền tảng zero-shot,2.403,4.328,0.923,1,21.099,n,4
+Chronos-2 + biến ngoài,Nền tảng zero-shot,2.418,4.324,0.93,1,20.588,n,5
+Random Forest,Học máy,2.462,4.287,0.974,0,19.164,n,6
+Ridge,Học máy,2.476,4.275,1.013,0,18.675,n,7
+LightGBM,Học máy,2.486,4.334,0.978,2,18.347,n,8
+Hồi quy Poisson,Mô hình đếm,2.532,4.458,0.989,0,16.858,n,9
+Trung bình 4 tuần,Mốc đơn giản,2.648,4.497,1.041,0,13.038,n,10
+Lặp lại tuần trước,Mốc đơn giản,3.045,5.153,1.179,0,0.0,n,11
+Cùng tuần năm trước,Mốc đơn giản,3.663,6.567,1.352,0,-20.301,n,12
+TimesFM 2.5,Nền tảng zero-shot,2.661,5.031,0.903,2,21.644,n_all,1
+Chronos-Bolt Small,Nền tảng zero-shot,2.663,5.042,0.905,2,21.565,n_all,2
+Chronos-Bolt Base,Nền tảng zero-shot,2.666,5.03,0.907,3,21.479,n_all,3
+Chronos-2,Nền tảng zero-shot,2.671,5.073,0.911,0,21.345,n_all,4
+Random Forest,Học máy,2.77,5.027,0.972,0,18.427,n_all,5
+LightGBM,Học máy,2.774,5.06,0.983,2,18.296,n_all,6
+Ridge,Học máy,2.786,5.029,1.012,0,17.951,n_all,7
+Hồi quy Poisson,Mô hình đếm,2.848,5.272,0.983,0,16.135,n_all,8
+Trung bình 4 tuần,Mốc đơn giản,2.97,5.324,1.033,0,12.527,n_all,9
+Lặp lại tuần trước,Mốc đơn giản,3.395,6.025,1.165,0,0.0,n_all,10
+Cùng tuần năm trước,Mốc đơn giản,4.166,7.776,1.362,0,-22.704,n_all,11
+TimesFM 2.5,Nền tảng zero-shot,1.294,2.718,0.83,3,22.623,n_damaged,1
+Chronos-2,Nền tảng zero-shot,1.3,2.728,0.832,3,22.262,n_damaged,2
+Chronos-Bolt Base,Nền tảng zero-shot,1.301,2.709,0.836,1,22.2,n_damaged,3
+Chronos-Bolt Small,Nền tảng zero-shot,1.302,2.725,0.836,1,22.187,n_damaged,4
+Hồi quy Poisson,Mô hình đếm,1.389,2.635,0.941,0,16.964,n_damaged,5
+LightGBM,Học máy,1.392,2.663,0.953,1,16.809,n_damaged,6
+Ridge,Học máy,1.395,2.603,1.016,0,16.623,n_damaged,7
+Random Forest,Học máy,1.408,2.671,0.961,0,15.825,n_damaged,8
+Trung bình 4 tuần,Mốc đơn giản,1.525,2.907,1.024,0,8.834,n_damaged,9
+Lặp lại tuần trước,Mốc đơn giản,1.673,3.232,1.113,0,0.0,n_damaged,10
+Cùng tuần năm trước,Mốc đơn giản,2.051,4.309,1.289,0,-22.593,n_damaged,11

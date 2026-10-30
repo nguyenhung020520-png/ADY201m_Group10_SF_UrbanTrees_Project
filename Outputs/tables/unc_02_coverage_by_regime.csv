@@ -1,0 +1,9 @@
+phuong_phap,Trước điểm gãy,Chứa điểm gãy,Sau điểm gãy
+Có sẵn: Chronos-2 + biến ngoài,72.8,72.7,74.8
+Có sẵn: Chronos-2,74.7,74.4,76.2
+Có sẵn: Chronos-Bolt Small,78.6,78.0,78.4
+Có sẵn: Chronos-Bolt Base,77.7,76.0,77.0
+Có sẵn: TimesFM 2.5,78.5,77.5,76.7
+Conformal quanh Random Forest,81.5,76.2,81.6
+Conformal quanh TimesFM 2.5,79.4,76.6,81.7
+Conformal quanh Trung bình 4 tuần,80.8,73.9,82.8

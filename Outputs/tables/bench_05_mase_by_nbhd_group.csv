@@ -1,0 +1,13 @@
+mo_hinh,Thấp,Trung bình,Cao
+TimesFM 2.5,0.91,0.913,0.924
+Chronos-Bolt Small,0.918,0.914,0.922
+Chronos-Bolt Base,0.923,0.911,0.924
+Chronos-2,0.926,0.92,0.923
+Chronos-2 + biến ngoài,0.936,0.925,0.929
+Random Forest,1.033,0.939,0.948
+Ridge,1.156,0.934,0.941
+LightGBM,1.025,0.946,0.961
+Hồi quy Poisson,1.022,0.972,0.972
+Trung bình 4 tuần,1.095,1.006,1.021
+Lặp lại tuần trước,1.198,1.166,1.172
+Cùng tuần năm trước,1.252,1.343,1.46

@@ -1,0 +1,6 @@
+cach_canh_bao,so_lan_canh_bao,precision,recall,F1,ty_le_bao_dong_gia
+Tuần này đã cao,948,0.252,0.228,0.24,0.095
+Dự báo điểm: Random Forest,511,0.196,0.096,0.128,0.055
+Dự báo điểm: TimesFM 2.5,163,0.221,0.034,0.06,0.017
+Cận trên 80% (conformal quanh Random Forest),4085,0.172,0.672,0.274,0.452
+Cận trên 80% (có sẵn: TimesFM 2.5),3566,0.179,0.611,0.277,0.391

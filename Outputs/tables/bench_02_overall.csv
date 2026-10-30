@@ -1,0 +1,13 @@
+mo_hinh,ho,MAE,RMSE,MASE,so_moc_thang,giam_MAE_so_voi_lap_lai_%
+TimesFM 2.5,Nền tảng zero-shot,2.393,4.284,0.916,1,21.409
+Chronos-Bolt Small,Nền tảng zero-shot,2.397,4.292,0.918,3,21.282
+Chronos-Bolt Base,Nền tảng zero-shot,2.397,4.282,0.92,1,21.274
+Chronos-2,Nền tảng zero-shot,2.403,4.328,0.923,1,21.099
+Chronos-2 + biến ngoài,Nền tảng zero-shot,2.418,4.324,0.93,1,20.588
+Random Forest,Học máy,2.462,4.287,0.974,0,19.164
+Ridge,Học máy,2.476,4.275,1.013,0,18.675
+LightGBM,Học máy,2.486,4.334,0.978,2,18.347
+Hồi quy Poisson,Mô hình đếm,2.532,4.458,0.989,0,16.858
+Trung bình 4 tuần,Mốc đơn giản,2.648,4.497,1.041,0,13.038
+Lặp lại tuần trước,Mốc đơn giản,3.045,5.153,1.179,0,0.0
+Cùng tuần năm trước,Mốc đơn giản,3.663,6.567,1.352,0,-20.301
